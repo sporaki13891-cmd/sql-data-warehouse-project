@@ -45,7 +45,7 @@ Develop a modern data warehouse using **SQL Server** to consolidate sales data a
   Focus on the latest dataset (no historization required).
 
 * 📚 **Documentation**
-  Provide clear and accessible data model documentation for both:
+  Provide clear and accessible data model documentation for:
 
   * Business stakeholders
   * Analytics teams
@@ -84,9 +84,61 @@ These insights help stakeholders:
 ## 🛠️ Tech Stack
 
 * 🗄️ SQL Server
-* 📄 CSV Data Sources
-* 🧮 SQL (T-SQL)
-* 📊 Data Modeling Techniques
+* 🧮 T-SQL
+* 📄 CSV Files
+* 📊 Data Modeling (Star Schema)
+
+---
+
+## 📸 Project Preview
+
+### 🏗️ Data Architecture
+
+![Data Architecture](docs/data_architecture.png)
+
+This diagram illustrates the overall architecture of the data pipeline, from raw data sources to the analytics layer.
+
+---
+
+### 🔄 Data Flow
+
+![Data Flow](docs/data_flow.png)
+
+Shows how data moves through the system, including ingestion, transformation, and loading processes.
+
+---
+
+### 🔗 Data Integration
+
+![Data Integration](docs/data_integration.png)
+
+Represents how ERP and CRM data are combined into a unified structure.
+
+---
+
+### 🧩 Data Model (ERD)
+
+![Data Model](docs/data_model.png)
+
+This diagram represents the star schema used to optimize analytical queries and reporting.
+
+---
+
+## 🧠 Design Decisions
+
+* Designed a layered architecture separating data ingestion, transformation, and analytics
+* Used a star schema to optimize analytical queries and performance
+* Integrated ERP and CRM data into a unified model for better business insights
+* Focused on the latest dataset to simplify the pipeline and reduce complexity
+
+---
+
+## 🚀 How to Run
+
+1. Import CSV files into SQL Server
+2. Run data integration and cleaning scripts
+3. Build the data warehouse schema
+4. Execute analytical queries to generate insights
 
 ---
 
@@ -111,4 +163,3 @@ Through projects like this, I'm building my skills in:
 I'm continuously learning and looking for opportunities to grow in the data field.
 
 📫 Feel free to connect or reach out!
-
