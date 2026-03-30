@@ -94,7 +94,7 @@ These insights help stakeholders:
 
 ### 🏗️ Data Architecture
 
-![Data Architecture](docs/data_Architecture.png)
+![Data Architecture](docs/Data_Architecture.png)
 
 This diagram illustrates the overall architecture of the data pipeline, from raw data sources to the analytics layer.
 
@@ -110,7 +110,7 @@ Shows how data moves through the system, including ingestion, transformation, an
 
 ### 🔗 Data Integration
 
-![Data Integration](docs/data_Integration.png)
+![Data Integration](docs/Data_Integration.png)
 
 Represents how ERP and CRM data are combined into a unified structure.
 
