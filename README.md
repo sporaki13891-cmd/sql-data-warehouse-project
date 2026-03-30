@@ -97,7 +97,18 @@ You are free to use, modify, and share this project with proper attribution.
 
 ---
 
-## 🙌 Author
+## 🙌 About Me
 
-Created as part of a data analytics portfolio project.
-Feel free to connect or provide feedback!
+Hi! I'm an aspiring data analyst with a strong interest in data engineering and analytics.
+
+I enjoy working with data — from cleaning and transforming it to uncovering useful insights.
+Through projects like this, I'm building my skills in:
+
+* SQL and data querying
+* Data modeling
+* Analytical thinking
+
+I'm continuously learning and looking for opportunities to grow in the data field.
+
+📫 Feel free to connect or reach out!
+
